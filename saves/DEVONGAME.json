@@ -1,0 +1,33 @@
+{
+  "xp": 92,
+  "upgrade_amt": 115.19999999999999,
+  "hp": 8,
+  "max_hp": 72,
+  "att": 6,
+  "lv": 3,
+  "alive": true,
+  "current_area_index": 2,
+  "current_weapon": "Bow",
+  "adrenaline_active": false,
+  "weapons_inventory": {
+    "Fists": {
+      "name": "Fists",
+      "bonus": 0
+    },
+    "Bow": {
+      "name": "Bow",
+      "bonus": 3
+    },
+    "Rusty Sword": {
+      "name": "Rusty Sword",
+      "bonus": 4
+    }
+  },
+  "bag": {
+    "Fur": 2,
+    "Meat": 4,
+    "Rope": 3,
+    "Bones": 2
+  },
+  "buildings": {}
+}
